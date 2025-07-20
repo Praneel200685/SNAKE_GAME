@@ -1,2 +1,2 @@
 # SNAKE_GAME
-This is a basic snake game made using turtle library in python that is controlled using the up,down,left,right keys on the keyboard
+This project presents a classic Snake game developed using the Turtle graphics library and Python’s object-oriented programming features. The game offers intuitive controls through the keyboard’s arrow keys, allowing players to guide the snake around the GUI interface. With a clean design and responsive gameplay, this project efficiently manages game state, collision detection, and scoring. Built as a practical exercise while learning Python OOP concepts, it serves as an excellent demonstration of event handling, graphical programming, and encapsulation skills.
